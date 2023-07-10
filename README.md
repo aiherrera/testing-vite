@@ -36,6 +36,24 @@ To run the tests, use the following command:
 pnpm run test
 ```
 
+To run in development mode:
+
+```bash
+pnpm run test:dev
+```
+
+To run Vitest UI:
+
+```bash
+pnpm run test:ui
+```
+
+To run test converage:
+
+```bash
+pnpm run coverage
+```
+
 ## Learning Resources
 
 This repository contains several examples of tests written with Vitest. Each example is accompanied by comments explaining what the test does and how it works. 
